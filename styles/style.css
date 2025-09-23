@@ -25,6 +25,7 @@ body {
   background-color: #778899;
   padding: 20px 40px;
   border: 5px solid black;
+  text-align: justify;
 }
 
 img {
