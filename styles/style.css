@@ -20,7 +20,7 @@ p, li {
 }
 
 body {
-  width: 600px;
+  width: 620px;
   margin: 0 auto;
   background-color: #778899;
   padding: 20px 40px;
@@ -35,5 +35,4 @@ img {
 
 p {
   color: white;
-  width: 500px;
 }
